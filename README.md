@@ -46,7 +46,7 @@ def search_by_name():
 
 def delete_all_records():
     open("student_bio.txt", "w").close()
-    print("🗑All records deleted successfully.\n")
+    print("All records deleted successfully.\n")
 
 
 #Menu Loop
